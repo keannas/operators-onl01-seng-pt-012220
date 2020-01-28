@@ -1,5 +1,5 @@
 def unsafe?(speed)
-  if
+  if unsafe 
 end
 
 
